@@ -1,0 +1,2 @@
+# farizz
+Tool SerbaGuna
